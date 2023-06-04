@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently **diving deeper into my knowledge of Angular and learning NodeJS**
 
-- 👨‍💻 All of my projects are available at [rogermiret/portfolio.com](rogermiret/frontend.com)
-
 - 📫 How to reach me **r.mir.min@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
