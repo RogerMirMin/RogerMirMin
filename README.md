@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **diving deeper into my knowledge of Angular and learning NodeJS**
 
-- 📫 How to reach me **r.mir.min@gmail.com**
+- 📫 How to reach me **r.mir.min@activicat.cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
