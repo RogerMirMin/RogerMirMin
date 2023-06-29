@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roger Miret</h1>
 <h3 align="center">A passionate Frontend Developer from Barcelona</h3>
 
-- 🔭 I’m currently working on [Activicat](http://www.activicat.cat), a personal project
+- 🔭 I’m currently working on [Activicat](http://www.activicat.cat), my main personal project
 
-- 🌱 I’m currently **diving deeper into my knowledge of Angular and learning NodeJS**
+- 🌱 I’m currently **diving deeper into my knowledge of Angular (signals, standalone components, new recommended syntax...)**
 
 - 📫 How to reach me **r.mir.min@activicat.cat**
 
