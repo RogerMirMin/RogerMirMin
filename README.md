@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roger Miret</h1>
 <h3 align="center">A passionate Frontend Developer from Barcelona</h3>
 
-- 🔭 I’m currently working on [Activicat](http://www.activicat.cat), my main personal project
+- 🔭 I’m currently working on the collaborative project [ITA Challenges](http://dev.ita-challenges.eurecatacademy.org/ita-challenge/challenges/dcacb291-b4aa-4029-8e9b-284c8ca80296) and my main personal project [Activicat](http://www.activicat.cat)
 
-- 🌱 I’m currently **diving deeper into my knowledge of Angular (signals, standalone components, new recommended syntax...)**
+- 🌱 I’m currently **diving deeper into my knowledge of Angular (signals, standalone components, new template syntax...)** and other front end technologies
 
 - 📫 How to reach me **r.mir.min@activicat.cat**
 
