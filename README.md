@@ -1,6 +1,6 @@
 <img src="https://github.com/roger-mir-min/roger-mir-min/blob/main/frontend-github.png?raw=true">
 
-- [ITA Challenges](http://dev.ita-challenges.eurecatacademy.org/ita-challenge/challenges/dcacb291-b4aa-4029-8e9b-284c8ca80296) 
+- <img widt="20px" height="20px" src="https://github.com/roger-mir-min/roger-mir-min/blob/main/BCNAct.jpeg?raw=true"> [ITA Challenges](http://dev.ita-challenges.eurecatacademy.org/ita-challenge/challenges/dcacb291-b4aa-4029-8e9b-284c8ca80296) 
 - [Activicat](http://www.activicat.cat)
 
 - 📫 **r.mir.min@activicat.cat**
