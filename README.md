@@ -4,6 +4,6 @@
 - [Activicat](http://www.activicat.cat)
 
 - 📫 **r.mir.min@activicat.cat**
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roger-miret-minard" height="25" width="35" /><a href="https://linkedin.com/in/roger-mir-min" target="blank"> /roger-mir-min</a>
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roger-miret-minard" height="16" width="20" /><a href="https://linkedin.com/in/roger-mir-min" target="blank"> /roger-mir-min</a>
 </p>
 
